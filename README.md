@@ -8,7 +8,6 @@ https://github.com/bjornaa/seawater/
 Use the following commands to install the seawater modules in your python environment with pip:<br>
 ```
 pip install git+https://github.com/gjpelletier/seawater/density.git
-
 ```
 
 # Original documentation from Bjørn Ådlandsvik
