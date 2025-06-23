@@ -1,5 +1,7 @@
 # --- coding: utf-8 ---
 
+__version__ = "1.0.1"
+
 """Seawater density module
 
 dens(S, T[, P])   -- Density
