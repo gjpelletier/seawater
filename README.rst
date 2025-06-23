@@ -1,6 +1,10 @@
 The seawater package
 ====================
 
+Adapted from the seawater package by Bjørn Ådlandsvik at the following link:
+
+https://github.com/bjornaa/seawater/
+
 Introduction
 ------------
 
